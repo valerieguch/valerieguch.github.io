@@ -1,0 +1,82 @@
+
+.side-menu{
+	width: 80%;
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+
+}
+.side{
+display: inline-block;
+line-height: 10px;
+text-align: center;
+
+}
+
+nav {
+  display: inline-block;
+
+}
+
+nav li {
+  display: inline-block;
+   padding-right: 20px;
+   padding-left: 20px;
+   font-family: 'Jost', sans-serif;
+   font-size: 20px;
+   font-weight: 300;
+}
+
+h1{
+	font-size: 20px;
+	font-family: 'Jost', sans-serif;
+	font-size: 20px;
+	line-height: 25px;
+	font-weight: 400;
+}
+h2{
+	font-size: 20px;
+	padding-left: 4px;
+	font-family: 'Jost', sans-serif;
+	font-size: 17px;
+	font-weight: 300;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.tel{
+	font-family: 'Jost', sans-serif;
+	font-size: 20px;
+	font-weight: 300;
+}
+.about_me{
+	padding-top: 30px ;
+	display: flex;
+	justify-content: space-between;
+	font-family: 'Jost', sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 35px;
+}
+img{
+	/*width: 400px;*/
+	width: 450px;
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+}
+.h1_about{
+	margin-top: 30px;
+}
+p{
+	margin-top: 20px;
+}
+.text_about{
+	width: 50%;
+}

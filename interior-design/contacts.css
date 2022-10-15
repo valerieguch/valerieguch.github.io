@@ -1,0 +1,77 @@
+/*.logo{
+	height: 248px;
+	width: 328px;
+}*/
+main{
+	background-color: #d7dadb;
+}
+
+.contact_wrapper{
+	display: flex;
+	padding-top: 100px;
+	padding-bottom: 217px;
+	justify-content: space-around;
+	/*align-items: center;*/
+	font-family: 'Jost', sans-serif;
+	font-size: 20px;
+	font-weight: 300;
+
+}
+.my_info{
+	display: inline-block;
+	width: 40%;
+
+
+}
+
+.my_info_1{
+	margin-top: 40px;
+}
+
+
+.input{
+	width: 40%;
+
+}
+
+#name, #email, #tel, #mes,#button {
+	width: 100%;
+	height: 30px;
+	font-size: 20px;
+	font-weight: 300;
+	border: none;
+	border-radius: 5px;
+}
+
+#button{
+	display: block;
+	height: 40px;
+	width: 150px;
+	margin: 0 auto;
+	border-radius: 7px;
+
+	/*margin-left: px;*/
+}
+#button:hover{
+	background: #86898a;
+}
+
+i{
+	margin-right: 30px;
+	color: gray;
+}
+textarea{
+	width: 100%;
+	border-radius: 5px;
+	border: none;
+	height: 100px;
+	margin-top: 10px;
+	margin-bottom:  10px;
+	font-family: 'Jost', sans-serif;
+	font-size: 20px;
+
+}
+input{
+	margin-top:  10px;
+	margin-bottom:  10px;
+}
